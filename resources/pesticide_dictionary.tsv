@@ -1,0 +1,1863 @@
+ID	name	synonyms
+TWPEST_00001	(3-ethoxypropyl)mercury bromide	
+TWPEST_00002	(S)-afoxolaner	
+TWPEST_00003	1,2-dichloropropane	
+TWPEST_00004	1,3-D	1,3-D;1,3-dichloropropene;1,3-dichloropropene
+TWPEST_00005	2,3,6-TBA	2,3,6-TBA;TCBA
+TWPEST_00006	2,4,5-T	
+TWPEST_00007	2,4,5-TB	
+TWPEST_00008	2,4-D	
+TWPEST_00009	2,4-DB	
+TWPEST_00010	2,4-DEB	
+TWPEST_00011	2,4-DES	2,4-DES;disul;sesone
+TWPEST_00012	2,5-dichlorobenzoic acid	
+TWPEST_00013	2-(octylthio)ethanol	
+TWPEST_00014	24-epibrassinolide	
+TWPEST_00015	3,4-DA	
+TWPEST_00016	3,4-DB	
+TWPEST_00017	3,4-DP	
+TWPEST_00018	3-chloro-4-methylaniline	3-chloro-4-methylaniline;starlicide
+TWPEST_00019	4-CPA	
+TWPEST_00020	4-CPB	
+TWPEST_00021	4-CPP	
+TWPEST_00022	4-aminopyridine	
+TWPEST_00023	4-hydroxyphenethyl alcohol	
+TWPEST_00024	8-hydroxyquinoline sulfate	
+TWPEST_00025	8-phenylmercurioxyquinoline	
+TWPEST_00026	BPCMS	
+TWPEST_00027	BPMC	
+TWPEST_00028	BPPS	
+TWPEST_00029	Bordeaux mixture	
+TWPEST_00030	Burgundy mixture	
+TWPEST_00031	CDEC	
+TWPEST_00032	CEPC	
+TWPEST_00033	CMMP	pentanochlor;solan
+TWPEST_00034	CPMC	
+TWPEST_00035	CPMF	
+TWPEST_00036	CVMP	stirofos;tetrachlorvinphos
+TWPEST_00037	Cheshunt mixture	
+TWPEST_00038	DA-6	
+TWPEST_00039	DBCP	
+TWPEST_00040	DCPTA	
+TWPEST_00041	DCU	
+TWPEST_00042	DDPP	
+TWPEST_00043	DDVP	
+TWPEST_00044	DEET	
+TWPEST_00045	DFDT	fluoro-DDT;fluorogesarol
+TWPEST_00046	DNOC	
+TWPEST_00047	DSMA	
+TWPEST_00048	EBAAP	
+TWPEST_00049	EBEP	
+TWPEST_00050	EDDP	
+TWPEST_00051	EMPC	
+TWPEST_00052	EPTC	
+TWPEST_00053	IPSP	
+TWPEST_00054	IPX	
+TWPEST_00055	IR3535	
+TWPEST_00056	Jinganmycin A	validamycin;validamycin A
+TWPEST_00057	MCPA	2,4-MCPA;2,4-MCPA;2M-4C;metaxon
+TWPEST_00058	MCPA-thioethyl	
+TWPEST_00059	MCPB	2,4-MCPB;2,4-MCPB;2M-4CM
+TWPEST_00060	MCPP	
+TWPEST_00061	MGK-264	
+TWPEST_00062	MNAF	
+TWPEST_00063	MPMC	
+TWPEST_00064	N-(ethylmercury)-p-toluenesulfonanilide	
+TWPEST_00065	NAAm	
+TWPEST_00066	OCH	
+TWPEST_00067	PDJ	
+TWPEST_00068	S-bioallethrin	S-bioallethrin;esdepallethrine
+TWPEST_00069	S-metolachlor	
+TWPEST_00070	TBTO	
+TWPEST_00071	TCNB	
+TWPEST_00072	TIBA	2,3,5-tri-iodobenzoic acid;2,3,5-triiodobenzoic acid;2,3,5-triiodobenzoic acid
+TWPEST_00073	a-chlorohydrin	
+TWPEST_00074	a-ecdysone	
+TWPEST_00075	a-multistriatin	
+TWPEST_00076	abamectin	
+TWPEST_00077	abamectin-aminomethyl	
+TWPEST_00078	acaricidal	
+TWPEST_00079	acaricide	
+TWPEST_00080	acephate	
+TWPEST_00081	acequinocyl	
+TWPEST_00082	acetamiprid	
+TWPEST_00083	acethion	
+TWPEST_00084	acetochlor	
+TWPEST_00085	acetofenate	penfenate;plifenate
+TWPEST_00086	acetophos	
+TWPEST_00087	acetoprole	
+TWPEST_00088	acibenzolar	
+TWPEST_00089	acifluorfen	
+TWPEST_00090	aclonifen	
+TWPEST_00091	acrep	
+TWPEST_00092	acrinathrin	
+TWPEST_00093	acynonapyr	
+TWPEST_00094	acypetacs	
+TWPEST_00095	afidopyropen	
+TWPEST_00096	afoxolaner	
+TWPEST_00097	alachlor	
+TWPEST_00098	alanycarb	
+TWPEST_00099	albendazole	
+TWPEST_00100	albucidin	
+TWPEST_00101	aldicarb	
+TWPEST_00102	aldicarb sulfone	
+TWPEST_00103	aldimorph	
+TWPEST_00104	aldrin	
+TWPEST_00105	algicidal	
+TWPEST_00106	algicide	
+TWPEST_00107	allethrin	
+TWPEST_00108	allicin	
+TWPEST_00109	allidochlor	
+TWPEST_00110	allosamidin	
+TWPEST_00111	alloxydim	
+TWPEST_00112	allyxycarb	
+TWPEST_00113	alorac	
+TWPEST_00114	alpha-bromadiolone	
+TWPEST_00115	alpha-cypermethrin	alpha-cypermethrin;alphamethrin
+TWPEST_00116	alpha-endosulfan	
+TWPEST_00117	altretamine	
+TWPEST_00118	aluminium phosphide	
+TWPEST_00119	ametoctradin	
+TWPEST_00120	ametridione	
+TWPEST_00121	ametryn	
+TWPEST_00122	amfenamacril	
+TWPEST_00123	amibuzin	
+TWPEST_00124	amicarbazone	
+TWPEST_00125	amicarthiazol	
+TWPEST_00126	amidithion	
+TWPEST_00127	amidochlor	
+TWPEST_00128	amidoflumet	
+TWPEST_00129	amidosulfuron	
+TWPEST_00130	aminocarb	
+TWPEST_00131	aminocyclopyrachlor	
+TWPEST_00132	aminopyralid	
+TWPEST_00133	aminopyrifen	
+TWPEST_00134	aminotipyr	
+TWPEST_00135	aminotriazole	
+TWPEST_00136	amiprofos-methyl	
+TWPEST_00137	amiprophos	
+TWPEST_00138	amisulbrom	
+TWPEST_00139	amiton	
+TWPEST_00140	amitraz	
+TWPEST_00141	ammonium sulfamate	
+TWPEST_00142	amobam	
+TWPEST_00143	ampropylfos	
+TWPEST_00144	anabasine	
+TWPEST_00145	ancymidol	
+TWPEST_00146	anilazine	
+TWPEST_00147	anilofos	
+TWPEST_00148	anisiflupurin	
+TWPEST_00149	anisuron	
+TWPEST_00150	anthraquinone	
+TWPEST_00151	antimony potassium tartrate	
+TWPEST_00152	apholate	
+TWPEST_00153	aramite	
+TWPEST_00154	arsenous oxide	
+TWPEST_00155	asomate	
+TWPEST_00156	asulam	
+TWPEST_00157	athidathion	
+TWPEST_00158	atraton	
+TWPEST_00159	atrazine	
+TWPEST_00160	aureofungin	
+TWPEST_00161	avicidal	
+TWPEST_00162	avicide	
+TWPEST_00163	azaconazole	
+TWPEST_00164	azadirachtin	
+TWPEST_00165	azafenidin	
+TWPEST_00166	azamethiphos	
+TWPEST_00167	azidithion	
+TWPEST_00168	azimsulfuron	
+TWPEST_00169	azinphos-ethyl	azinphosethyl;triazothion
+TWPEST_00170	azinphos-methyl	azinphosmethyl;methyltriazothion
+TWPEST_00171	aziprotryn	
+TWPEST_00172	azithiram	
+TWPEST_00173	azobenzene	
+TWPEST_00174	azocyclotin	
+TWPEST_00175	azothoate	
+TWPEST_00176	azoxystrobin	
+TWPEST_00177	b-ecdysone	
+TWPEST_00178	b-sitosterin	22,23-dihydrostigmasterol;b-sitosterol;beta-sitosterol
+TWPEST_00179	bachmedesh	
+TWPEST_00180	bactericidal	
+TWPEST_00181	bactericide	
+TWPEST_00182	barium hexafluorosilicate	
+TWPEST_00183	barium polysulfide	
+TWPEST_00184	barthrin	
+TWPEST_00185	basic copper carbonate	
+TWPEST_00186	basic copper chloride	copper oxychloride;tribasic copper chloride
+TWPEST_00187	beflubutamid	
+TWPEST_00188	beflubutamid-M	
+TWPEST_00189	benalaxyl	
+TWPEST_00190	benalaxyl-M	chiralaxyl;kiralaxyl
+TWPEST_00191	benazolin	
+TWPEST_00192	bencarbazone	
+TWPEST_00193	benclothiaz	
+TWPEST_00194	bendaqingbingzhi	
+TWPEST_00195	bendiocarb	
+TWPEST_00196	bendioxide	bentazon;bentazone
+TWPEST_00197	benefin	
+TWPEST_00198	benfuracarb	
+TWPEST_00199	benfuresate	
+TWPEST_00200	benmihuangcaoan	
+TWPEST_00201	benodanil	
+TWPEST_00202	benomyl	
+TWPEST_00203	benoxacor	
+TWPEST_00204	benoxafos	
+TWPEST_00205	benquinox	
+TWPEST_00206	benquitrione	
+TWPEST_00207	bensulfuron	
+TWPEST_00208	bensulide	
+TWPEST_00209	bensultap	
+TWPEST_00210	bentaluron	
+TWPEST_00211	benthiavalicarb	
+TWPEST_00212	benthiazole	
+TWPEST_00213	benthiocarb	
+TWPEST_00214	bentioflumin	
+TWPEST_00215	bentranil	
+TWPEST_00216	benzadox	
+TWPEST_00217	benzamacril	
+TWPEST_00218	benzamorf	
+TWPEST_00219	benzfendizone	
+TWPEST_00220	benzimine	
+TWPEST_00221	benzipram	
+TWPEST_00222	benzobicyclon	
+TWPEST_00223	benzoepin	endosulfan;thiodan
+TWPEST_00224	benzofenap	
+TWPEST_00225	benzofluor	
+TWPEST_00226	benzohydroxamic acid	
+TWPEST_00227	benzomate	
+TWPEST_00228	benzophosphate	
+TWPEST_00229	benzothiadiazole	
+TWPEST_00230	benzovindiflupyr	
+TWPEST_00231	benzoylprop	
+TWPEST_00232	benzpyrimoxan	
+TWPEST_00233	benzthiazuron	
+TWPEST_00234	benzuocaotong	
+TWPEST_00235	benzyl benzoate	
+TWPEST_00236	benzyladenine	
+TWPEST_00237	beta-cyfluthrin	
+TWPEST_00238	beta-cypermethrin	
+TWPEST_00239	bethoxazin	
+TWPEST_00240	bialaphos	
+TWPEST_00241	bicyclopyrone	
+TWPEST_00242	bifemetstrobin	
+TWPEST_00243	bifenazate	
+TWPEST_00244	bifenox	
+TWPEST_00245	bifenthrin	
+TWPEST_00246	bifujunzhi	
+TWPEST_00247	binapacryl	
+TWPEST_00248	binghuanzuo	
+TWPEST_00249	bingqingxiao	
+TWPEST_00250	bioethanomethrin	
+TWPEST_00251	biopermethrin	
+TWPEST_00252	bioresmethrin	d-trans-resmethrin;d-trans-resmethrin;d-trans-resmethrin
+TWPEST_00253	bipyrazone	
+TWPEST_00254	bisazir	
+TWPEST_00255	bismerthiazol	
+TWPEST_00256	bismerthiazol-copper	
+TWPEST_00257	bisphenylmercury methylenedi(x-naphthalene-y-sulphonate)	
+TWPEST_00258	bispyribac	
+TWPEST_00259	bistrifluron	
+TWPEST_00260	bisulflufen	
+TWPEST_00261	bisultap	dimehypo;disosultap
+TWPEST_00262	bitertanol	
+TWPEST_00263	bithionol	
+TWPEST_00264	bixafen	
+TWPEST_00265	bixlozone	
+TWPEST_00266	blasticidin-S	
+TWPEST_00267	boscalid	
+TWPEST_00268	brassinolide	
+TWPEST_00269	brassinolide-ethyl	28-homobrassinolide;28-homobrassinolide;homobrassinolide
+TWPEST_00270	brevicomin	
+TWPEST_00271	broclozone	
+TWPEST_00272	brodifacoum	
+TWPEST_00273	brofenprox	
+TWPEST_00274	brofenvalerate	
+TWPEST_00275	broflanilide	
+TWPEST_00276	brofluthrinate	
+TWPEST_00277	bromacil	
+TWPEST_00278	bromadiolone	
+TWPEST_00279	bromethalin	
+TWPEST_00280	bromethrin	
+TWPEST_00281	bromfenvinfos	
+TWPEST_00282	bromo-DDT	
+TWPEST_00283	bromoacetamide	
+TWPEST_00284	bromobonil	
+TWPEST_00285	bromobutide	
+TWPEST_00286	bromociclen	
+TWPEST_00287	bromofenoxim	
+TWPEST_00288	bromofos	
+TWPEST_00289	bromomethane	
+TWPEST_00290	bromophos-ethyl	
+TWPEST_00291	bromopropylate	
+TWPEST_00292	bromothalonil	
+TWPEST_00293	bromoxynil	
+TWPEST_00294	brompyrazon	
+TWPEST_00295	bromuconazole	
+TWPEST_00296	bronopol	
+TWPEST_00297	bucarpolate	
+TWPEST_00298	bufencarb	
+TWPEST_00299	buminafos	
+TWPEST_00300	bupirimate	
+TWPEST_00301	buprofezin	
+TWPEST_00302	busulfan	
+TWPEST_00303	butacarb	
+TWPEST_00304	butachlor	
+TWPEST_00305	butafenacil	
+TWPEST_00306	butam	
+TWPEST_00307	butamifos	
+TWPEST_00308	butane-fipronil	butene-fipronil;butylene-fipronil;flufiprole;rizazole
+TWPEST_00309	butathiofos	
+TWPEST_00310	butenachlor	
+TWPEST_00311	butethrin	
+TWPEST_00312	buthidazole	
+TWPEST_00313	buthiobate	
+TWPEST_00314	buthiuron	
+TWPEST_00315	butifos	merphos oxide;tribufos;tuoyelin
+TWPEST_00316	butocarboxim	
+TWPEST_00317	butonate	
+TWPEST_00318	butopyronoxyl	
+TWPEST_00319	butoxycarboxim	
+TWPEST_00320	butralin	
+TWPEST_00321	butrizol	
+TWPEST_00322	butroxydim	
+TWPEST_00323	buturon	
+TWPEST_00324	butylamine	
+TWPEST_00325	butylate	
+TWPEST_00326	cacodylic acid	
+TWPEST_00327	cadusafos	
+TWPEST_00328	cafenstrole	
+TWPEST_00329	calcium arsenate	
+TWPEST_00330	calcium chlorate	
+TWPEST_00331	calcium cyanamide	
+TWPEST_00332	calcium cyanide	
+TWPEST_00333	calcium polysulfide	
+TWPEST_00334	calvinphos	
+TWPEST_00335	cambendichlor	
+TWPEST_00336	camphechlor	polychlorcamphene;toxaphene
+TWPEST_00337	cantrodifene	
+TWPEST_00338	captafol	
+TWPEST_00339	captan	
+TWPEST_00340	carbam	carbathion;metam;metham;methyldithiocarbamic acid
+TWPEST_00341	carbamate	
+TWPEST_00342	carbamorph	
+TWPEST_00343	carbanolate	
+TWPEST_00344	carbaril	carbaryl;sevin
+TWPEST_00345	carbasulam	
+TWPEST_00346	carbathiin	
+TWPEST_00347	carbendazim	
+TWPEST_00348	carbetamide	
+TWPEST_00349	carbofenotion	
+TWPEST_00350	carbofuran	
+TWPEST_00351	carbophos	malathion;maldison;mercaptothion
+TWPEST_00352	carbosulfan	
+TWPEST_00353	carboxazole	
+TWPEST_00354	carboxide	
+TWPEST_00355	carfentrazone	
+TWPEST_00356	carmeconazole	
+TWPEST_00357	carpropamid	
+TWPEST_00358	cartap	
+TWPEST_00359	carvone	
+TWPEST_00360	cellocidin	
+TWPEST_00361	ceralure	
+TWPEST_00362	cetoctaelat	
+TWPEST_00363	cevadilla	
+TWPEST_00364	cevadine	
+TWPEST_00365	chinalphos	
+TWPEST_00366	chinalphos-methyl	
+TWPEST_00367	chinomethionat	chinomethionate;oxythioquinox;quinomethionate
+TWPEST_00368	chlobenthiazone	
+TWPEST_00369	chlomethoxyfen	
+TWPEST_00370	chlor-IPC	
+TWPEST_00371	chloralose	
+TWPEST_00372	chloramben	
+TWPEST_00373	chloramine phosphorus	
+TWPEST_00374	chloramizol	enilconazole;imazalil
+TWPEST_00375	chloraniformethan	
+TWPEST_00376	chloranil	
+TWPEST_00377	chloranocryl	
+TWPEST_00378	chlorantraniliprole	
+TWPEST_00379	chlorazifop	
+TWPEST_00380	chlorazine	
+TWPEST_00381	chlorbenside	
+TWPEST_00382	chlorbenzuron	
+TWPEST_00383	chlorbicyclen	
+TWPEST_00384	chlorbromuron	
+TWPEST_00385	chlorbufam	
+TWPEST_00386	chlordane	
+TWPEST_00387	chlordecone	
+TWPEST_00388	chlordimeform	
+TWPEST_00389	chlorempenthrin	
+TWPEST_00390	chloretazate	
+TWPEST_00391	chlorethephon	
+TWPEST_00392	chlorethoxyfos	
+TWPEST_00393	chloreturon	
+TWPEST_00394	chlorfenac	
+TWPEST_00395	chlorfenapyr	
+TWPEST_00396	chlorfenazole	
+TWPEST_00397	chlorfenethol	
+TWPEST_00398	chlorfenprop	
+TWPEST_00399	chlorfenson	chlorofenizon;ephirsulfonate;ovatron;ovex
+TWPEST_00400	chlorfensulphide	
+TWPEST_00401	chlorfenvinphos	
+TWPEST_00402	chlorfenvinphos-methyl	
+TWPEST_00403	chlorfluazuron	
+TWPEST_00404	chlorflurazole	
+TWPEST_00405	chlorflurecol	
+TWPEST_00406	chlorfluren	
+TWPEST_00407	chlorimuron	
+TWPEST_00408	chlormephos	
+TWPEST_00409	chlormequat	
+TWPEST_00410	chlormesulone	
+TWPEST_00411	chlornidine	
+TWPEST_00412	chlornitrofen	
+TWPEST_00413	chlorobenzilate	
+TWPEST_00414	chlorodinitronaphthalenes	
+TWPEST_00415	chloroinconazide	
+TWPEST_00416	chloromebuform	
+TWPEST_00417	chloromethiuron	
+TWPEST_00418	chloroneb	
+TWPEST_00419	chlorophacinone	
+TWPEST_00420	chlorophthalim	
+TWPEST_00421	chloropicrin	
+TWPEST_00422	chloropon	2,2,3-TPA;2,3,3-TPA
+TWPEST_00423	chloroprallethrin	
+TWPEST_00424	chloropropylate	
+TWPEST_00425	chlorothalonil	
+TWPEST_00426	chlorotoluron	
+TWPEST_00427	chloroxifenidim	
+TWPEST_00428	chloroxynil	
+TWPEST_00429	chlorphonium	
+TWPEST_00430	chlorphoxim	
+TWPEST_00431	chlorprazophos	
+TWPEST_00432	chlorprocarb	
+TWPEST_00433	chlorpyrifos	
+TWPEST_00434	chlorpyrifos-methyl	
+TWPEST_00435	chlorquinox	
+TWPEST_00436	chlorsulfuron	
+TWPEST_00437	chlorthal	
+TWPEST_00438	chlorthiamid	
+TWPEST_00439	chlorthiophos	
+TWPEST_00440	chlozolinate	
+TWPEST_00441	chromafenozide	
+TWPEST_00442	cicloheximide	
+TWPEST_00443	cimectacarb	cimetacarb;trinexapac
+TWPEST_00444	cinerin I	
+TWPEST_00445	cinerin II	
+TWPEST_00446	cinflubrolin	
+TWPEST_00447	cinidon-ethyl	
+TWPEST_00448	cinmethylin	
+TWPEST_00449	cinosulfuron	
+TWPEST_00450	cintofen	
+TWPEST_00451	ciobutide	
+TWPEST_00452	cisanilide	
+TWPEST_00453	cismethrin	
+TWPEST_00454	clacyfos	luxiancaolin;lvxiancaolin
+TWPEST_00455	clefoxydim	
+TWPEST_00456	clenpirin	
+TWPEST_00457	clethodim	
+TWPEST_00458	climbazole	
+TWPEST_00459	cliodinate	
+TWPEST_00460	clodinafop	
+TWPEST_00461	cloethocarb	
+TWPEST_00462	clofencet	
+TWPEST_00463	clofenotane	DDT;dicophane
+TWPEST_00464	clofentezine	
+TWPEST_00465	clofibric acid	
+TWPEST_00466	clofop	
+TWPEST_00467	clomazone	
+TWPEST_00468	clomeprop	
+TWPEST_00469	clonitralid	
+TWPEST_00470	clopidol	
+TWPEST_00471	cloprop	
+TWPEST_00472	cloproxydim	
+TWPEST_00473	clopyralid	
+TWPEST_00474	cloquintocet	
+TWPEST_00475	cloransulam	
+TWPEST_00476	closantel	
+TWPEST_00477	clothianidin	
+TWPEST_00478	clotrimazole	
+TWPEST_00479	cloxyfonac	
+TWPEST_00480	cloxylacon	clozylacon;vangard
+TWPEST_00481	codlelure	
+TWPEST_00482	colophonate	
+TWPEST_00483	copper 8-quinolinolate	oxine-Cu;oxine-copper
+TWPEST_00484	copper acetoarsenite	
+TWPEST_00485	copper arsenate	
+TWPEST_00486	copper hydroxide	
+TWPEST_00487	copper naphthenate	
+TWPEST_00488	copper oleate	
+TWPEST_00489	copper zinc chromate	
+TWPEST_00490	coumachlor	
+TWPEST_00491	coumafene	warfarin;zoocoumarin
+TWPEST_00492	coumafos	
+TWPEST_00493	coumafuryl	fumarin;tomarin
+TWPEST_00494	coumatetralyl	
+TWPEST_00495	coumethoxystrobin	
+TWPEST_00496	coumithoate	
+TWPEST_00497	coumoxystrobin	
+TWPEST_00498	credazine	
+TWPEST_00499	crimidine	
+TWPEST_00500	croconazole	
+TWPEST_00501	crotamiton	
+TWPEST_00502	crotoxyfos	
+TWPEST_00503	crufomate	
+TWPEST_00504	cryolite	
+TWPEST_00505	cue-lure	
+TWPEST_00506	cufraneb	
+TWPEST_00507	cumyleron	
+TWPEST_00508	cuprobam	
+TWPEST_00509	curcumenol	
+TWPEST_00510	cyanatryn	
+TWPEST_00511	cyanazine	
+TWPEST_00512	cyanofenphos	
+TWPEST_00513	cyanoflanilide	
+TWPEST_00514	cyanophos	
+TWPEST_00515	cyanthoate	
+TWPEST_00516	cyantraniliprole	
+TWPEST_00517	cyanuric acid	
+TWPEST_00518	cyazofamid	
+TWPEST_00519	cybenzoxasulfyl	
+TWPEST_00520	cybutryne	
+TWPEST_00521	cyclafuramid	
+TWPEST_00522	cyclanilide	
+TWPEST_00523	cyclaniliprole	
+TWPEST_00524	cyclethrin	
+TWPEST_00525	cycloate	
+TWPEST_00526	cyclobunofen	
+TWPEST_00527	cyclobutrifluram	
+TWPEST_00528	cycloprate	
+TWPEST_00529	cycloprothrin	
+TWPEST_00530	cyclopyranil	
+TWPEST_00531	cyclopyrimorate	
+TWPEST_00532	cyclosulfamuron	
+TWPEST_00533	cycloxaprid	
+TWPEST_00534	cycloxydim	
+TWPEST_00535	cycluron	
+TWPEST_00536	cyenopyrafen	
+TWPEST_00537	cyetpyrafen	
+TWPEST_00538	cyflufenamid	
+TWPEST_00539	cyflumetofen	
+TWPEST_00540	cyfluthrin	
+TWPEST_00541	cyhalodiamide	
+TWPEST_00542	cyhalofop	
+TWPEST_00543	cyhalothrin	
+TWPEST_00544	cyhexatin	
+TWPEST_00545	cymergan	
+TWPEST_00546	cymiazole	tifatol;xymiazole
+TWPEST_00547	cymoxanil	
+TWPEST_00548	cyometrinil	
+TWPEST_00549	cypendazole	
+TWPEST_00550	cypermethrin	
+TWPEST_00551	cyperquat	
+TWPEST_00552	cyphenothrin	
+TWPEST_00553	cyprazine	
+TWPEST_00554	cyprazole	
+TWPEST_00555	cyproconazole	
+TWPEST_00556	cyprodinil	
+TWPEST_00557	cyproflanilide	
+TWPEST_00558	cyprofuram	
+TWPEST_00559	cyprometoxazam	
+TWPEST_00560	cypromid	
+TWPEST_00561	cyprosulfamide	
+TWPEST_00562	cypyrafluone	
+TWPEST_00563	cyromazine	
+TWPEST_00564	cythioate	
+TWPEST_00565	cytrex	dodine;doguadine
+TWPEST_00566	d-fanshiluquebingjuzhi	
+TWPEST_00567	d-teflumethrin	
+TWPEST_00568	d-trans-allethrin	bioallethrin;d-trans-allethrin;d-trans-allethrin;depallethrine
+TWPEST_00569	daimuron	dimuron;dymron
+TWPEST_00570	dalapon	
+TWPEST_00571	daminozide	
+TWPEST_00572	dayoutong	
+TWPEST_00573	dazomet	
+TWPEST_00574	debacarb	
+TWPEST_00575	decafentin	
+TWPEST_00576	decamethrin	
+TWPEST_00577	decarbofuran	
+TWPEST_00578	dehydroacetic acid	
+TWPEST_00579	deiquat	diquat;reglone
+TWPEST_00580	delachlor	
+TWPEST_00581	delnav	dioxathion;dioxation
+TWPEST_00582	demephion	
+TWPEST_00583	demephion-O	
+TWPEST_00584	demephion-S	
+TWPEST_00585	demeton	
+TWPEST_00586	demeton-O	
+TWPEST_00587	demeton-O-methyl	
+TWPEST_00588	demeton-S	
+TWPEST_00589	demeton-S-methyl	
+TWPEST_00590	demeton-S-methylsulphon	
+TWPEST_00591	demeton-methyl	
+TWPEST_00592	derris	
+TWPEST_00593	desmedipham	
+TWPEST_00594	desmetryn	
+TWPEST_00595	di-allate	
+TWPEST_00596	diafenthiuron	
+TWPEST_00597	dialifor	
+TWPEST_00598	diamfenetide	
+TWPEST_00599	diamidafos	
+TWPEST_00600	dianat	dicamba;disugran
+TWPEST_00601	diazinon	
+TWPEST_00602	dibutyl phthalate	
+TWPEST_00603	dibutyl succinate	
+TWPEST_00604	dicapthon	
+TWPEST_00605	dicarbasulf	dicarbosulf;thiodicarb
+TWPEST_00606	dichlobenil	
+TWPEST_00607	dichlobentiazox	
+TWPEST_00608	dichlobenz-methyl	
+TWPEST_00609	dichlofenthion	
+TWPEST_00610	dichlofluanid	
+TWPEST_00611	dichlone	
+TWPEST_00612	dichlorbenzuron	
+TWPEST_00613	dichlorfenidim	
+TWPEST_00614	dichlorflurecol	
+TWPEST_00615	dichlormate	
+TWPEST_00616	dichlormid	
+TWPEST_00617	dichloromethane	
+TWPEST_00618	dichlorophen	
+TWPEST_00619	dichlorprop	2,4-DP;2,4-DP
+TWPEST_00620	dichlorprop-P	
+TWPEST_00621	dichlozolin	
+TWPEST_00622	diclobutrazol	
+TWPEST_00623	diclocymet	
+TWPEST_00624	diclofop	
+TWPEST_00625	diclomezine	
+TWPEST_00626	dicloran	
+TWPEST_00627	dicloromezotiaz	
+TWPEST_00628	diclosulam	
+TWPEST_00629	dicofol	
+TWPEST_00630	dicoumarol	dicumarol;melitoxin
+TWPEST_00631	dicresyl	
+TWPEST_00632	dicrotophos	
+TWPEST_00633	dicyclanil	
+TWPEST_00634	dicyclonon	
+TWPEST_00635	dieldrin	
+TWPEST_00636	dienochlor	
+TWPEST_00637	diethamquat	
+TWPEST_00638	diethatyl	
+TWPEST_00639	diethion	diethion;diethon;ethion
+TWPEST_00640	diethofencarb	
+TWPEST_00641	dietholate	
+TWPEST_00642	diethyl pyrocarbonate	
+TWPEST_00643	difenacoum	
+TWPEST_00644	difenoconazole	
+TWPEST_00645	difenopenten	
+TWPEST_00646	difenoxuron	
+TWPEST_00647	difenzoquat	
+TWPEST_00648	difethialone	
+TWPEST_00649	diflovidazin	flufenzine;flutenzine
+TWPEST_00650	diflubenzuron	
+TWPEST_00651	diflufenican	
+TWPEST_00652	diflufenzopyr	
+TWPEST_00653	diflumetorim	
+TWPEST_00654	dikegulac	
+TWPEST_00655	dilor	
+TWPEST_00656	dimatif	
+TWPEST_00657	dimefluazole	
+TWPEST_00658	dimefluthrin	
+TWPEST_00659	dimefox	
+TWPEST_00660	dimefuron	
+TWPEST_00661	dimenoxypyrin	
+TWPEST_00662	dimepiperate	
+TWPEST_00663	dimepyrolimet	
+TWPEST_00664	dimesulfazet	
+TWPEST_00665	dimetachlone	
+TWPEST_00666	dimetan	
+TWPEST_00667	dimethacarb	
+TWPEST_00668	dimethachlor	
+TWPEST_00669	dimethametryn	
+TWPEST_00670	dimethenamid	
+TWPEST_00671	dimethenamid-P	
+TWPEST_00672	dimethipin	
+TWPEST_00673	dimethirimol	
+TWPEST_00674	dimethoate	
+TWPEST_00675	dimethomorph	
+TWPEST_00676	dimethrin	
+TWPEST_00677	dimethyl carbate	
+TWPEST_00678	dimethyl phthalate	
+TWPEST_00679	dimetilan	
+TWPEST_00680	dimexano	
+TWPEST_00681	dimidazon	
+TWPEST_00682	dimoxystrobin	
+TWPEST_00683	dimpropyridaz	
+TWPEST_00684	dimpyrargyl	
+TWPEST_00685	dinex	
+TWPEST_00686	dingjunezuo	
+TWPEST_00687	diniconazole	
+TWPEST_00688	diniconazole-M	R-diniconazole;R-diniconazole
+TWPEST_00689	dinitramine	
+TWPEST_00690	dinitrophenols	
+TWPEST_00691	dinobuton	
+TWPEST_00692	dinocap	
+TWPEST_00693	dinocap-4	
+TWPEST_00694	dinocap-6	
+TWPEST_00695	dinocton	
+TWPEST_00696	dinofenate	
+TWPEST_00697	dinopenton	
+TWPEST_00698	dinoprop	
+TWPEST_00699	dinosam	
+TWPEST_00700	dinoseb	
+TWPEST_00701	dinosulfon	
+TWPEST_00702	dinotefuran	
+TWPEST_00703	dinoterb	
+TWPEST_00704	dinoterbon	
+TWPEST_00705	diofenolan	
+TWPEST_00706	dioxabenzofos	
+TWPEST_00707	dioxacarb	
+TWPEST_00708	dioxopyritrione	
+TWPEST_00709	diphacin	diphacinone;diphenadione
+TWPEST_00710	diphenamid	
+TWPEST_00711	diphenyl sulfone	
+TWPEST_00712	diphenyl sulphide	tetradisul;tetrasul
+TWPEST_00713	diphenylamine	
+TWPEST_00714	dipropalin	
+TWPEST_00715	dipropetryn	
+TWPEST_00716	dipymetitrone	
+TWPEST_00717	dipyrithione	
+TWPEST_00718	disparlure	
+TWPEST_00719	disulfiram	
+TWPEST_00720	disulfoton	M-74;ethylthiometon;thiodemeton
+TWPEST_00721	ditalimfos	
+TWPEST_00722	dithianon	
+TWPEST_00723	dithicrofos	
+TWPEST_00724	dithiometon	M-81;thiometon
+TWPEST_00725	dithiopyr	
+TWPEST_00726	dithiuron	
+TWPEST_00727	dixanthogen	
+TWPEST_00728	dodemorph	
+TWPEST_00729	dodicin	
+TWPEST_00730	dofenapyn	
+TWPEST_00731	dominicalure	
+TWPEST_00732	doramectin	
+TWPEST_00733	drazoxolon	
+TWPEST_00734	dufulin	
+TWPEST_00735	echlomezol	
+TWPEST_00736	eglinazine	
+TWPEST_00737	empenthrin	
+TWPEST_00738	enadenine	2iP;6-isopentenyladenine;6-isopentenylaminopurine
+TWPEST_00739	endothal	
+TWPEST_00740	endothion	
+TWPEST_00741	endrin	
+TWPEST_00742	enestroburin	enoxastrobin;xiwojunzhi
+TWPEST_00743	enprocymid	
+TWPEST_00744	epocholeone	
+TWPEST_00745	epofenonane	
+TWPEST_00746	epoxiconazole	
+TWPEST_00747	eprinomectin	
+TWPEST_00748	epronaz	
+TWPEST_00749	epsilon-metofluthrin	
+TWPEST_00750	epsilon-momfluorothrin	
+TWPEST_00751	epyrifenacil	
+TWPEST_00752	erbon	
+TWPEST_00753	erlujixiancaoan	
+TWPEST_00754	erysichrona	
+TWPEST_00755	esfenvalerate	
+TWPEST_00756	esprocarb	
+TWPEST_00757	etacelasil	
+TWPEST_00758	etaconazole	
+TWPEST_00759	etaphos	
+TWPEST_00760	etem	
+TWPEST_00761	ethaboxam	
+TWPEST_00762	ethachlor	
+TWPEST_00763	ethalfluralin	
+TWPEST_00764	ethametsulfuron	
+TWPEST_00765	ethaprochlor	
+TWPEST_00766	ethidimuron	
+TWPEST_00767	ethiofencarb	
+TWPEST_00768	ethiolate	
+TWPEST_00769	ethiozin	
+TWPEST_00770	ethiprole	
+TWPEST_00771	ethirimol	
+TWPEST_00772	ethoate-methyl	
+TWPEST_00773	ethobenzanid	
+TWPEST_00774	ethofumesate	
+TWPEST_00775	ethohexadiol	
+TWPEST_00776	ethoprop	
+TWPEST_00777	ethoxyfen	
+TWPEST_00778	ethoxyquin	
+TWPEST_00779	ethoxysulfuron	
+TWPEST_00780	ethychlozate	
+TWPEST_00781	ethyl pyrophosphate	
+TWPEST_00782	ethylan	ethyl-DDD;perthane
+TWPEST_00783	ethylicin	
+TWPEST_00784	ethylmercury 2,3-dihydroxypropyl mercaptide	
+TWPEST_00785	ethylmercury acetate	
+TWPEST_00786	ethylmercury bromide	
+TWPEST_00787	ethylmercury chloride	
+TWPEST_00788	ethylmercury phosphate	
+TWPEST_00789	ethyltrianol	etiltrianol;fenetrazole;tebuconazole;terbuconazole;terbutrazole
+TWPEST_00790	etinofen	
+TWPEST_00791	etnipromid	
+TWPEST_00792	etofenprox	
+TWPEST_00793	etoxazole	
+TWPEST_00794	etrimfos	
+TWPEST_00795	famoxacarb	
+TWPEST_00796	famoxadone	
+TWPEST_00797	famphur	
+TWPEST_00798	fenamidone	
+TWPEST_00799	fenaminosulf	
+TWPEST_00800	fenaminstrobin	
+TWPEST_00801	fenamiphos	
+TWPEST_00802	fenapanil	
+TWPEST_00803	fenargimine	
+TWPEST_00804	fenarimol	
+TWPEST_00805	fenasulam	
+TWPEST_00806	fenazaflor	
+TWPEST_00807	fenazaquin	
+TWPEST_00808	fenbuconazole	
+TWPEST_00809	fenbutatin oxide	
+TWPEST_00810	fenchlorazole	
+TWPEST_00811	fenchlorphos	fenclofos;ronnel
+TWPEST_00812	fenclorim	
+TWPEST_00813	fendioxypyracil	
+TWPEST_00814	feneptamidoquin	
+TWPEST_00815	fenethacarb	
+TWPEST_00816	fenfluthrin	
+TWPEST_00817	fenfuram	
+TWPEST_00818	fenhexamid	
+TWPEST_00819	fenidim	
+TWPEST_00820	fenitropan	
+TWPEST_00821	fenizon	
+TWPEST_00822	fenjuntong	
+TWPEST_00823	fenmezoditiaz	
+TWPEST_00824	fenolovo	fentin;triphenyltin
+TWPEST_00825	fenoprop	2,4,5-TP;2,4,5-TP;silvex
+TWPEST_00826	fenopyramid	
+TWPEST_00827	fenothiocarb	
+TWPEST_00828	fenoxacrim	
+TWPEST_00829	fenoxanil	
+TWPEST_00830	fenoxaprop	
+TWPEST_00831	fenoxaprop-P	
+TWPEST_00832	fenoxasulfone	
+TWPEST_00833	fenoxycarb	
+TWPEST_00834	fenpiclonil	
+TWPEST_00835	fenpicoxamid	
+TWPEST_00836	fenpirithrin	
+TWPEST_00837	fenpropathrin	
+TWPEST_00838	fenpropidin	
+TWPEST_00839	fenpropimorph	
+TWPEST_00840	fenpyrazamine	
+TWPEST_00841	fenpyrazone	
+TWPEST_00842	fenpyroximate	
+TWPEST_00843	fenquinotrione	
+TWPEST_00844	fenridazon	
+TWPEST_00845	fensulfothion	
+TWPEST_00846	fenteracol	
+TWPEST_00847	fenthiaprop	
+TWPEST_00848	fenthion	
+TWPEST_00849	fenthion-ethyl	
+TWPEST_00850	fentiazoluron	
+TWPEST_00851	fentrazamide	
+TWPEST_00852	fentrifanil	
+TWPEST_00853	fenuron-TCA	
+TWPEST_00854	fenvalerate	
+TWPEST_00855	feproxydim	
+TWPEST_00856	ferbam	
+TWPEST_00857	ferimzone	
+TWPEST_00858	ferric phosphate	
+TWPEST_00859	fipronil	
+TWPEST_00860	flamprop	
+TWPEST_00861	flamprop-M	
+TWPEST_00862	flazasulfuron	
+TWPEST_00863	flocoumafen	
+TWPEST_00864	flometoquin	
+TWPEST_00865	flonicamid	
+TWPEST_00866	florasulam	
+TWPEST_00867	florpyrauxifen	
+TWPEST_00868	florylpicoxamid	
+TWPEST_00869	fluacrypyrim	
+TWPEST_00870	fluazaindolizine	
+TWPEST_00871	fluazifop	
+TWPEST_00872	fluazifop-P	
+TWPEST_00873	fluazinam	
+TWPEST_00874	fluazolate	
+TWPEST_00875	fluazuron	
+TWPEST_00876	flubendiamide	
+TWPEST_00877	flubeneteram	
+TWPEST_00878	flubenzimine	
+TWPEST_00879	flucarbazone	
+TWPEST_00880	flucetosulfuron	
+TWPEST_00881	fluchloralin	
+TWPEST_00882	fluchloraminopyr	
+TWPEST_00883	fluchlordiniliprole	
+TWPEST_00884	flucofuron	
+TWPEST_00885	flucycloxuron	
+TWPEST_00886	flucythrinate	
+TWPEST_00887	fludioxonil	
+TWPEST_00888	fluenethyl	
+TWPEST_00889	fluensulfone	
+TWPEST_00890	flufenacet	
+TWPEST_00891	flufenauxirim	
+TWPEST_00892	flufenazopyr	
+TWPEST_00893	flufenerim	
+TWPEST_00894	flufenican	
+TWPEST_00895	flufenoxadiazam	
+TWPEST_00896	flufenoximacil	
+TWPEST_00897	flufenoxuron	
+TWPEST_00898	flufenoxystrobin	
+TWPEST_00899	flufenprox	
+TWPEST_00900	flufenpyr	
+TWPEST_00901	fluhexafon	
+TWPEST_00902	fluindapyr	
+TWPEST_00903	flumethrin	
+TWPEST_00904	flumetnicam	
+TWPEST_00905	flumetover	
+TWPEST_00906	flumetralin	
+TWPEST_00907	flumetsulam	
+TWPEST_00908	flumetylsulforim	
+TWPEST_00909	flumezin	
+TWPEST_00910	flumiclorac	
+TWPEST_00911	flumioxazin	
+TWPEST_00912	flumipropyn	
+TWPEST_00913	flumorph	
+TWPEST_00914	fluometuron	
+TWPEST_00915	fluopicolide	
+TWPEST_00916	fluopimomide	
+TWPEST_00917	fluopyram	
+TWPEST_00918	fluorbenside	
+TWPEST_00919	fluoridamid	
+TWPEST_00920	fluoroacetamide	
+TWPEST_00921	fluoroacetic acid	
+TWPEST_00922	fluorochloridone	
+TWPEST_00923	fluorodifen	
+TWPEST_00924	fluoroglycofen	
+TWPEST_00925	fluoroimide	
+TWPEST_00926	fluoromidine	
+TWPEST_00927	fluoronitrofen	
+TWPEST_00928	fluoroxypyr	
+TWPEST_00929	fluothiuron	
+TWPEST_00930	fluotrimazole	
+TWPEST_00931	fluoxapiprolin	
+TWPEST_00932	fluoxastrobin	
+TWPEST_00933	fluoxytioconazole	
+TWPEST_00934	flupentiofenox	
+TWPEST_00935	flupoxam	
+TWPEST_00936	flupropacil	
+TWPEST_00937	flupropadine	
+TWPEST_00938	flupropanate	
+TWPEST_00939	flupymezotiaz	
+TWPEST_00940	flupyradifurone	
+TWPEST_00941	flupyrazofos	
+TWPEST_00942	flupyrimin	
+TWPEST_00943	flupyroxystrobin	
+TWPEST_00944	flupyrsulfuron	
+TWPEST_00945	fluquinconazole	
+TWPEST_00946	fluquinometoate	
+TWPEST_00947	fluralaner	
+TWPEST_00948	flurazole	
+TWPEST_00949	flurecol	
+TWPEST_00950	fluridone	
+TWPEST_00951	flurprimidol	
+TWPEST_00952	flursulamid	
+TWPEST_00953	flurtamone	
+TWPEST_00954	flusilazole	
+TWPEST_00955	flusulfamide	
+TWPEST_00956	flusulfinam	
+TWPEST_00957	fluthiacet	
+TWPEST_00958	flutianil	
+TWPEST_00959	flutolanil	
+TWPEST_00960	flutriafol	
+TWPEST_00961	fluvalinate	
+TWPEST_00962	fluxametamide	
+TWPEST_00963	fluxapyroxad	
+TWPEST_00964	fluxofenim	
+TWPEST_00965	folpel	
+TWPEST_00966	fomesafen	
+TWPEST_00967	fonofos	
+TWPEST_00968	foramsulfuron	
+TWPEST_00969	forchlorfenuron	
+TWPEST_00970	formetanate	
+TWPEST_00971	formothion	
+TWPEST_00972	formparanate	
+TWPEST_00973	fosamine	
+TWPEST_00974	fosetyl	
+TWPEST_00975	fosmethilan	
+TWPEST_00976	fospirate	
+TWPEST_00977	fosthiazate	
+TWPEST_00978	fosthietan	
+TWPEST_00979	frontalin	
+TWPEST_00980	fthalide	
+TWPEST_00981	fuberidazole	
+TWPEST_00982	fucaojing	
+TWPEST_00983	fucaomi	
+TWPEST_00984	fufenozide	
+TWPEST_00985	fulumi	
+TWPEST_00986	funaihecaoling	
+TWPEST_00987	fungicidal	
+TWPEST_00988	fungicide	
+TWPEST_00989	fuphenthiourea	
+TWPEST_00990	furalane	
+TWPEST_00991	furalaxyl	
+TWPEST_00992	furamethrin	
+TWPEST_00993	furametpyr	
+TWPEST_00994	furathiocarb	
+TWPEST_00995	furcarbanil	
+TWPEST_00996	furconazole	
+TWPEST_00997	furconazole-cis	
+TWPEST_00998	furethrin	
+TWPEST_00999	furilazole	
+TWPEST_01000	furmecyclox	
+TWPEST_01001	furophanate	
+TWPEST_01002	furyloxyfen	
+TWPEST_01003	galquin	
+TWPEST_01004	gamma-BHC	gamma-BHC;gamma-HCH;gamma-HCH;lindane
+TWPEST_01005	gamma-cyhalothrin	
+TWPEST_01006	genit	
+TWPEST_01007	gibberellin A4 with A7	
+TWPEST_01008	gliftor	
+TWPEST_01009	glufosinate	
+TWPEST_01010	glufosinate-P	L-glufosinate;L-glufosinate;phosphinothricin
+TWPEST_01011	glyodin	
+TWPEST_01012	glyoxime	
+TWPEST_01013	glyphosate	
+TWPEST_01014	glyphosine	
+TWPEST_01015	gossyplure	
+TWPEST_01016	grandlure	
+TWPEST_01017	griseofulvin	
+TWPEST_01018	guanoctine	
+TWPEST_01019	halacrinate	
+TWPEST_01020	halauxifen	
+TWPEST_01021	halofenozide	
+TWPEST_01022	halosafen	
+TWPEST_01023	halosulfuron	
+TWPEST_01024	haloxydine	
+TWPEST_01025	haloxyfop	
+TWPEST_01026	haloxyfop-P	
+TWPEST_01027	hempa	
+TWPEST_01028	heptachlor	
+TWPEST_01029	heptafluthrin	
+TWPEST_01030	heptamaloxyloglucan	
+TWPEST_01031	heptenophos	
+TWPEST_01032	heptopargil	
+TWPEST_01033	herbicidal	
+TWPEST_01034	herbicide	
+TWPEST_01035	herbimycin	
+TWPEST_01036	heterophos	
+TWPEST_01037	hexachlorobutadiene	
+TWPEST_01038	hexachlorophene	
+TWPEST_01039	hexaconazole	
+TWPEST_01040	hexaflumuron	
+TWPEST_01041	hexaflurate	
+TWPEST_01042	hexalure	
+TWPEST_01043	hexazinone	
+TWPEST_01044	hexylthiofos	
+TWPEST_01045	hexythiazox	
+TWPEST_01046	holosulf	
+TWPEST_01047	huancaiwo	
+TWPEST_01048	huangcaoling	
+TWPEST_01049	huanjunzuo	
+TWPEST_01050	hydramethylnon	
+TWPEST_01051	hydrogen cyanide	
+TWPEST_01052	hydroprene	S-hydroprene;S-hydroprene
+TWPEST_01053	hydroxyisoxazole	
+TWPEST_01054	hyquincarb	
+TWPEST_01055	icafolin	
+TWPEST_01056	icaridin	picaridin;propidine
+TWPEST_01057	imazamethabenz	
+TWPEST_01058	imazamethapyr	
+TWPEST_01059	imazamox	
+TWPEST_01060	imazapyr	
+TWPEST_01061	imazaquin	
+TWPEST_01062	imazethapyr	
+TWPEST_01063	imazosulfuron	
+TWPEST_01064	imibenconazole	
+TWPEST_01065	imicyafos	
+TWPEST_01066	imidacloprid	
+TWPEST_01067	imidaclothiz	
+TWPEST_01068	iminoctadine	
+TWPEST_01069	imiprothrin	
+TWPEST_01070	inabenfide	
+TWPEST_01071	indanofan	
+TWPEST_01072	indazapyroxamet	
+TWPEST_01073	indaziflam	
+TWPEST_01074	indolauxipyr	
+TWPEST_01075	indoxacarb	
+TWPEST_01076	inezin	
+TWPEST_01077	inpyrfluxam	
+TWPEST_01078	insecticidal	
+TWPEST_01079	insecticide	
+TWPEST_01080	iodobonil	
+TWPEST_01081	iodocarb	
+TWPEST_01082	iodofenphos	
+TWPEST_01083	iodomethane	
+TWPEST_01084	iodosulfuron	
+TWPEST_01085	iofensulfuron	
+TWPEST_01086	ioxynil	
+TWPEST_01087	ipazine	
+TWPEST_01088	ipconazole	
+TWPEST_01089	ipfencarbazone	
+TWPEST_01090	ipfentrifluconazole	
+TWPEST_01091	ipflufenoquin	
+TWPEST_01092	iprodione	
+TWPEST_01093	iprovalicarb	
+TWPEST_01094	iprymidam	
+TWPEST_01095	ipsdienol	
+TWPEST_01096	ipsenol	
+TWPEST_01097	iptriazopyrid	
+TWPEST_01098	isamidofos	
+TWPEST_01099	isazofos	
+TWPEST_01100	isobenzan	
+TWPEST_01101	isocarbamid	
+TWPEST_01102	isocarbophos	
+TWPEST_01103	isocil	
+TWPEST_01104	isocycloseram	
+TWPEST_01105	isodrin	
+TWPEST_01106	isofenphos	
+TWPEST_01107	isofenphos-methyl	
+TWPEST_01108	isofetamid	
+TWPEST_01109	isoflualanam	
+TWPEST_01110	isoflucypram	
+TWPEST_01111	isolan	
+TWPEST_01112	isomethiozin	
+TWPEST_01113	isonoruron	
+TWPEST_01114	isopamphos	izopamfos;izopamphos
+TWPEST_01115	isopolinate	
+TWPEST_01116	isoprocarb	
+TWPEST_01117	isopropalin	
+TWPEST_01118	isoprothiolane	
+TWPEST_01119	isoproturon	
+TWPEST_01120	isopyrazam	
+TWPEST_01121	isopyrimol	
+TWPEST_01122	isothioate	
+TWPEST_01123	isotianil	
+TWPEST_01124	isouron	
+TWPEST_01125	isovaledione	
+TWPEST_01126	isoxaben	
+TWPEST_01127	isoxacarbole	
+TWPEST_01128	isoxachlortole	
+TWPEST_01129	isoxadifen	
+TWPEST_01130	isoxafenacil	
+TWPEST_01131	isoxaflutole	
+TWPEST_01132	isoxapyrifop	
+TWPEST_01133	isoxathion	
+TWPEST_01134	ivermectin	
+TWPEST_01135	japonilure	
+TWPEST_01136	japothrins	
+TWPEST_01137	jasmolin I	
+TWPEST_01138	jasmolin II	
+TWPEST_01139	jiahuangchongzong	
+TWPEST_01140	jiajizengxiaolin	
+TWPEST_01141	jiecaowan	
+TWPEST_01142	jiecaoxi	
+TWPEST_01143	juvenile hormone I	
+TWPEST_01144	juvenile hormone II	
+TWPEST_01145	juvenile hormone III	
+TWPEST_01146	kadethrin	
+TWPEST_01147	kappa-bifenthrin	
+TWPEST_01148	kappa-tefluthrin	
+TWPEST_01149	karbutilate	
+TWPEST_01150	kasugamycin	
+TWPEST_01151	kejunlin	
+TWPEST_01152	kelevan	
+TWPEST_01153	ketospiradox	
+TWPEST_01154	kinetin	
+TWPEST_01155	kinoprene	S-kinoprene;S-kinoprene
+TWPEST_01156	kresoxim-methyl	
+TWPEST_01157	kuicaoxi	
+TWPEST_01158	lactofen	
+TWPEST_01159	lambda-cyhalothrin	
+TWPEST_01160	lancotrione	
+TWPEST_01161	latilure	
+TWPEST_01162	lead arsenate	
+TWPEST_01163	ledprona	
+TWPEST_01164	lenacil	
+TWPEST_01165	lepimectin	
+TWPEST_01166	leptophos	
+TWPEST_01167	lineatin	
+TWPEST_01168	linuron	
+TWPEST_01169	lirimfos	
+TWPEST_01170	litlure	
+TWPEST_01171	looplure	
+TWPEST_01172	lotilaner	
+TWPEST_01173	lufenuron	
+TWPEST_01174	lvdingjunzhi	
+TWPEST_01175	lvfumijvzhi	
+TWPEST_01176	lythidathion	
+TWPEST_01177	magnesium phosphide	
+TWPEST_01178	maleic hydrazide	
+TWPEST_01179	malonoben	
+TWPEST_01180	manam	
+TWPEST_01181	mancopper	
+TWPEST_01182	mancozeb	
+TWPEST_01183	mandestrobin	
+TWPEST_01184	mandipropamid	
+TWPEST_01185	maneb	
+TWPEST_01186	mazidox	
+TWPEST_01187	mebenil	
+TWPEST_01188	mecarbam	
+TWPEST_01189	mecarbinzid	
+TWPEST_01190	mecarphon	
+TWPEST_01191	mecoprop-P	
+TWPEST_01192	medimeform	
+TWPEST_01193	medinoterb	
+TWPEST_01194	medlure	
+TWPEST_01195	mefenacet	
+TWPEST_01196	mefenoxam	R-metalaxyl;R-metalaxyl;metalaxyl-M
+TWPEST_01197	mefenpyr	
+TWPEST_01198	mefentrifluconazole	
+TWPEST_01199	mefluidide	
+TWPEST_01200	megatomoic acid	
+TWPEST_01201	melissyl alcohol	myricyl alcohol;triacontanol
+TWPEST_01202	mepanipyrim	
+TWPEST_01203	mephenate	
+TWPEST_01204	mephosfolan	
+TWPEST_01205	mepiquat	
+TWPEST_01206	mepitriflufenpyr	
+TWPEST_01207	mepronil	
+TWPEST_01208	meptyldinocap	
+TWPEST_01209	mercaptodimethur	
+TWPEST_01210	mercuric chloride	
+TWPEST_01211	mercuric oxide	
+TWPEST_01212	mercurous chloride	
+TWPEST_01213	merphos	
+TWPEST_01214	mesoprazine	
+TWPEST_01215	mesosulfuron	
+TWPEST_01216	mesotrione	
+TWPEST_01217	mesulfen	
+TWPEST_01218	mesulfenfos	
+TWPEST_01219	metaflumizone	
+TWPEST_01220	metalaxyl	
+TWPEST_01221	metaldehyde	
+TWPEST_01222	metamifop	
+TWPEST_01223	metamitron	
+TWPEST_01224	metaphos	methyl parathion;parathion-methyl
+TWPEST_01225	metarylpicoxamid	
+TWPEST_01226	metazachlor	
+TWPEST_01227	metazosulfuron	
+TWPEST_01228	metazoxolon	
+TWPEST_01229	metcamifen	
+TWPEST_01230	metconazole	
+TWPEST_01231	metcyclofenstrobin	
+TWPEST_01232	metepa	
+TWPEST_01233	metflurazon	
+TWPEST_01234	methabenzthiazuron	
+TWPEST_01235	methacrifos	
+TWPEST_01236	methalpropalin	
+TWPEST_01237	methamidophos	
+TWPEST_01238	methasulfocarb	
+TWPEST_01239	methazole	
+TWPEST_01240	methfuroxam	
+TWPEST_01241	methidathion	
+TWPEST_01242	methiobencarb	
+TWPEST_01243	methiopyrisulfuron	
+TWPEST_01244	methiotepa	
+TWPEST_01245	methiozolin	
+TWPEST_01246	methiuron	
+TWPEST_01247	methocrotophos	
+TWPEST_01248	metholcarb	MTMC;metolcarb
+TWPEST_01249	methometon	
+TWPEST_01250	methomyl	
+TWPEST_01251	methoprene	S-methoprene;S-methoprene
+TWPEST_01252	methoprotryn	
+TWPEST_01253	methoquin-butyl	
+TWPEST_01254	methothrin	
+TWPEST_01255	methoxychlor	
+TWPEST_01256	methoxyfenozide	
+TWPEST_01257	methoxyphenone	
+TWPEST_01258	methyl apholate	
+TWPEST_01259	methyl eugenol	
+TWPEST_01260	methyl isothiocyanate	
+TWPEST_01261	methylacetophos	
+TWPEST_01262	methylchloroform	
+TWPEST_01263	methyldymron	
+TWPEST_01264	methylmercaptophos oxide	
+TWPEST_01265	methylmercury benzoate	
+TWPEST_01266	methylneodecanamide	
+TWPEST_01267	metiram	metiram-zinc;metriam;polyram
+TWPEST_01268	metobenzuron	
+TWPEST_01269	metobromuron	
+TWPEST_01270	metofluthrin	
+TWPEST_01271	metolachlor	
+TWPEST_01272	metomeclan	
+TWPEST_01273	metometuron	
+TWPEST_01274	metominostrobin	
+TWPEST_01275	metosulam	
+TWPEST_01276	metoxadiazone	
+TWPEST_01277	metoxuron	
+TWPEST_01278	metproxybicyclone	
+TWPEST_01279	metrafenone	
+TWPEST_01280	metribuzin	
+TWPEST_01281	metsulfovax	
+TWPEST_01282	metsulfuron	
+TWPEST_01283	metyltetraprole	
+TWPEST_01284	mevalocidin	
+TWPEST_01285	mevinphos	
+TWPEST_01286	mexacarbate	
+TWPEST_01287	miechuwei	
+TWPEST_01288	mieshuan	
+TWPEST_01289	miewenjuzhi	
+TWPEST_01290	milbemectin	
+TWPEST_01291	milbemycin oxime	
+TWPEST_01292	milneb	
+TWPEST_01293	mimanan	
+TWPEST_01294	mipafox	
+TWPEST_01295	mirex	
+TWPEST_01296	miticidal	
+TWPEST_01297	miticide	
+TWPEST_01298	mivorilaner	
+TWPEST_01299	modoflaner	
+TWPEST_01300	moguchun	
+TWPEST_01301	molinate	
+TWPEST_01302	molluscicidal	
+TWPEST_01303	molluscicide	
+TWPEST_01304	molosultap	monomehypo;monosultap
+TWPEST_01305	momfluorothrin	
+TWPEST_01306	monalide	
+TWPEST_01307	monisouron	
+TWPEST_01308	monoamitraz	
+TWPEST_01309	monocrotophos	
+TWPEST_01310	monolinuron	
+TWPEST_01311	monosulfiram	
+TWPEST_01312	monosulfuron	
+TWPEST_01313	monosulfuron-ester	
+TWPEST_01314	monuron-TCA	
+TWPEST_01315	morfamquat	
+TWPEST_01316	moroxydine	
+TWPEST_01317	morphothion	
+TWPEST_01318	morzid	
+TWPEST_01319	moxidectin	
+TWPEST_01320	muscalure	
+TWPEST_01321	myclobutanil	
+TWPEST_01322	myclozolin	
+TWPEST_01323	nabam	
+TWPEST_01324	nafoxametamide	
+TWPEST_01325	naftalofos	
+TWPEST_01326	naphthalic anhydride	
+TWPEST_01327	naphthoxyacetic acids	
+TWPEST_01328	naphthylindane-1,3-diones	
+TWPEST_01329	naproanilide	
+TWPEST_01330	napropamide	
+TWPEST_01331	napropamide-M	
+TWPEST_01332	natamycin	
+TWPEST_01333	neburea	
+TWPEST_01334	nematicidal	
+TWPEST_01335	nematicide	
+TWPEST_01336	neonicotinoid	
+TWPEST_01337	nichlorfos	
+TWPEST_01338	nicofluprole	
+TWPEST_01339	nicosulfuron	
+TWPEST_01340	nifluridide	
+TWPEST_01341	nikkomycins	
+TWPEST_01342	nipyraclofen	
+TWPEST_01343	nitenpyram	
+TWPEST_01344	nithiazine	
+TWPEST_01345	nitralin	
+TWPEST_01346	nitrapyrin	
+TWPEST_01347	nitrilacarb	
+TWPEST_01348	nitrofluorfen	
+TWPEST_01349	nitrostyrene	
+TWPEST_01350	nitrothal-isopropyl	
+TWPEST_01351	nobormide	
+TWPEST_01352	nootkatone	
+TWPEST_01353	norea	
+TWPEST_01354	norflurazon	
+TWPEST_01355	nornicotine	
+TWPEST_01356	novaluron	
+TWPEST_01357	noviflumuron	
+TWPEST_01358	nuarimol	
+TWPEST_01359	o-phenylphenol	2-phenylphenol;2-phenylphenol
+TWPEST_01360	octachlorodipropyl ether	
+TWPEST_01361	octhilinone	
+TWPEST_01362	ofurace	
+TWPEST_01363	omethoate	
+TWPEST_01364	orbencarb	
+TWPEST_01365	orfralure	
+TWPEST_01366	organophosphate	
+TWPEST_01367	orthonil	
+TWPEST_01368	orthosulfamuron	
+TWPEST_01369	oryctalure	
+TWPEST_01370	orysastrobin	
+TWPEST_01371	oryzalin	
+TWPEST_01372	osthol	
+TWPEST_01373	ostramone	
+TWPEST_01374	oxabetrinil	
+TWPEST_01375	oxadiargyl	
+TWPEST_01376	oxadiazon	
+TWPEST_01377	oxadixyl	
+TWPEST_01378	oxalic acid	
+TWPEST_01379	oxamyl	
+TWPEST_01380	oxapyrazon	
+TWPEST_01381	oxasulfuron	
+TWPEST_01382	oxathiapiprolin	
+TWPEST_01383	oxaziclomefone	
+TWPEST_01384	oxazosulfyl	
+TWPEST_01385	oxolinic acid	
+TWPEST_01386	oxpoconazole	
+TWPEST_01387	oxycarboxin	
+TWPEST_01388	oxydisulfoton	
+TWPEST_01389	oxyenadenine	
+TWPEST_01390	oxyfenthiin	
+TWPEST_01391	oxyfluorfen	
+TWPEST_01392	oxymatrine	
+TWPEST_01393	p-dichlorobenzene	p-dichlorobenzene;para-dichlorobenzene;para-dichlorobenzene
+TWPEST_01394	p-menthane-3,8-diol	PMD;menthoglycol
+TWPEST_01395	paclobutrazol	
+TWPEST_01396	paichongding	
+TWPEST_01397	parafluron	
+TWPEST_01398	paraquat	
+TWPEST_01399	parathion	
+TWPEST_01400	parinol	
+TWPEST_01401	pebulate	
+TWPEST_01402	pefurazoate	
+TWPEST_01403	pelargonic acid	
+TWPEST_01404	penconazole	
+TWPEST_01405	pencycuron	
+TWPEST_01406	pendimethalin	
+TWPEST_01407	penflufen	
+TWPEST_01408	penfluron	
+TWPEST_01409	penoxsulam	
+TWPEST_01410	penthiopyrad	
+TWPEST_01411	pentoxazone	
+TWPEST_01412	perbutin	
+TWPEST_01413	perfluidone	
+TWPEST_01414	permethrin	
+TWPEST_01415	pesticidal	
+TWPEST_01416	pesticide	
+TWPEST_01417	pethoxamid	
+TWPEST_01418	phenamacril	
+TWPEST_01419	phenazine oxide	
+TWPEST_01420	phenisopham	
+TWPEST_01421	phenmedipham	
+TWPEST_01422	phenmedipham-ethyl	
+TWPEST_01423	phenobenzuron	
+TWPEST_01424	phenothrin	
+TWPEST_01425	phenproxide	
+TWPEST_01426	phenylmercuriurea	
+TWPEST_01427	phenylmercury acetate	
+TWPEST_01428	phenylmercury chloride	
+TWPEST_01429	phenylmercury derivative of pyrocatechol	
+TWPEST_01430	phenylmercury nitrate	
+TWPEST_01431	phenylmercury salicylate	
+TWPEST_01432	phorate	
+TWPEST_01433	phosacetim	phosazetim;phosazetin
+TWPEST_01434	phoscyclotin	
+TWPEST_01435	phosdiphen	
+TWPEST_01436	phosfolan	
+TWPEST_01437	phosfolan-methyl	
+TWPEST_01438	phosglycin	
+TWPEST_01439	phosphamidon	
+TWPEST_01440	phosphine	
+TWPEST_01441	phosphocarb	
+TWPEST_01442	phostebupirim	tebupirimfos;tebupirimphos
+TWPEST_01443	phoxim	
+TWPEST_01444	phoxim-methyl	
+TWPEST_01445	phthalthrin	
+TWPEST_01446	picarbutrazox	
+TWPEST_01447	picloram	
+TWPEST_01448	picolinafen	
+TWPEST_01449	picoxystrobin	
+TWPEST_01450	pindone	pival;pivaldione
+TWPEST_01451	pinoxaden	
+TWPEST_01452	pioxaniliprole	
+TWPEST_01453	piperalin	
+TWPEST_01454	piperflanilide	
+TWPEST_01455	piperonyl butoxide	
+TWPEST_01456	piperonyl cyclonene	
+TWPEST_01457	piperophos	
+TWPEST_01458	piproctanly	
+TWPEST_01459	piprotal	
+TWPEST_01460	pirimetaphos	
+TWPEST_01461	pirimicarb	
+TWPEST_01462	piriminil	
+TWPEST_01463	pirimioxyphos	
+TWPEST_01464	pirimiphos-ethyl	
+TWPEST_01465	pirimiphos-methyl	
+TWPEST_01466	polycarbamate	
+TWPEST_01467	polyoxin B	
+TWPEST_01468	polyoxin D	
+TWPEST_01469	polyoxins	
+TWPEST_01470	polythialan	
+TWPEST_01471	potassium arsenite	
+TWPEST_01472	potassium azide	
+TWPEST_01473	potassium cyanate	
+TWPEST_01474	potassium ethylxanthate	
+TWPEST_01475	potassium naphthenate	
+TWPEST_01476	potassium polysulfide	
+TWPEST_01477	potassium thiocyanate	
+TWPEST_01478	pp'-DDT	
+TWPEST_01479	prallethrin	
+TWPEST_01480	precocene I	
+TWPEST_01481	precocene II	
+TWPEST_01482	precocene III	
+TWPEST_01483	pretilachlor	
+TWPEST_01484	primidophos	
+TWPEST_01485	primisulfuron	
+TWPEST_01486	probenazole	
+TWPEST_01487	prochloraz	
+TWPEST_01488	prochlorosulfone	
+TWPEST_01489	proclonol	
+TWPEST_01490	procyazine	
+TWPEST_01491	procymidone	
+TWPEST_01492	prodiamine	
+TWPEST_01493	profenofos	
+TWPEST_01494	profluazol	
+TWPEST_01495	profluralin	
+TWPEST_01496	profluthrin	
+TWPEST_01497	profurite-aminium	
+TWPEST_01498	proglinazine	
+TWPEST_01499	prohexadione	
+TWPEST_01500	promacyl	
+TWPEST_01501	promecarb	
+TWPEST_01502	prometon	
+TWPEST_01503	prometryn	
+TWPEST_01504	promurit	
+TWPEST_01505	pronamide	
+TWPEST_01506	pronitridine	
+TWPEST_01507	propachlor	
+TWPEST_01508	propafos	
+TWPEST_01509	propamidine	
+TWPEST_01510	propamocarb	
+TWPEST_01511	propaquizafop	
+TWPEST_01512	proparthrin	
+TWPEST_01513	propazine	
+TWPEST_01514	propetamphos	
+TWPEST_01515	propineb	
+TWPEST_01516	propisochlor	
+TWPEST_01517	propoxycarbazone	
+TWPEST_01518	propyl isome	
+TWPEST_01519	propyrisulfuron	
+TWPEST_01520	proquinazid	
+TWPEST_01521	prosuler	psoralen;psoralene
+TWPEST_01522	prosulfalin	
+TWPEST_01523	prosulfocarb	
+TWPEST_01524	prosulfuron	
+TWPEST_01525	prothidathion	
+TWPEST_01526	prothiocarb	
+TWPEST_01527	prothioconazole	
+TWPEST_01528	prothiofos	
+TWPEST_01529	prothoate	
+TWPEST_01530	protrifenbute	
+TWPEST_01531	prynachlor	
+TWPEST_01532	pydanon	
+TWPEST_01533	pydiflumetofen	
+TWPEST_01534	pyflubumide	
+TWPEST_01535	pymetrozine	
+TWPEST_01536	pyracarbolid	
+TWPEST_01537	pyraclofos	
+TWPEST_01538	pyraclonil	
+TWPEST_01539	pyraclostrobin	
+TWPEST_01540	pyraflufen	
+TWPEST_01541	pyrafluprole	
+TWPEST_01542	pyramat	
+TWPEST_01543	pyrametostrobin	
+TWPEST_01544	pyraoxystrobin	
+TWPEST_01545	pyrapropoyne	
+TWPEST_01546	pyraquinate	
+TWPEST_01547	pyrasulfotole	
+TWPEST_01548	pyraziflumid	
+TWPEST_01549	pyrazolate	
+TWPEST_01550	pyrazophos	
+TWPEST_01551	pyrazosulfuron	
+TWPEST_01552	pyrazothion	
+TWPEST_01553	pyrazoxyfen	
+TWPEST_01554	pyresmethrin	
+TWPEST_01555	pyrethrin I	
+TWPEST_01556	pyrethrin II	
+TWPEST_01557	pyrethrins	
+TWPEST_01558	pyrethroid	
+TWPEST_01559	pyribambenz-isopropyl	
+TWPEST_01560	pyribambenz-propyl	
+TWPEST_01561	pyribencarb	
+TWPEST_01562	pyribenzoxim	
+TWPEST_01563	pyributicarb	
+TWPEST_01564	pyriclor	
+TWPEST_01565	pyridaben	
+TWPEST_01566	pyridachlometyl	
+TWPEST_01567	pyridafol	
+TWPEST_01568	pyridalyl	
+TWPEST_01569	pyridaphenthion	
+TWPEST_01570	pyridate	
+TWPEST_01571	pyrifenox	
+TWPEST_01572	pyriflubenzoxim	
+TWPEST_01573	pyrifluquinazon	
+TWPEST_01574	pyriftalid	
+TWPEST_01575	pyrimethanil	
+TWPEST_01576	pyrimidifen	
+TWPEST_01577	pyriminobac	
+TWPEST_01578	pyrimisulfan	
+TWPEST_01579	pyrimitate	
+TWPEST_01580	pyriofenone	
+TWPEST_01581	pyriprole	
+TWPEST_01582	pyripropanol	
+TWPEST_01583	pyriproxyfen	
+TWPEST_01584	pyrithiobac	
+TWPEST_01585	pyrolan	
+TWPEST_01586	pyroquilon	
+TWPEST_01587	pyroxasulfone	
+TWPEST_01588	pyroxsulam	
+TWPEST_01589	pyroxychlor	
+TWPEST_01590	pyroxyfur	
+TWPEST_01591	qingkuling	
+TWPEST_01592	quassia	
+TWPEST_01593	quinacetol	
+TWPEST_01594	quinaminoprole	
+TWPEST_01595	quinazamid	
+TWPEST_01596	quinclorac	
+TWPEST_01597	quinconazole	
+TWPEST_01598	quinmerac	
+TWPEST_01599	quinofumelin	
+TWPEST_01600	quinonamid	
+TWPEST_01601	quinothion	
+TWPEST_01602	quinoxyfen	
+TWPEST_01603	quintiofos	
+TWPEST_01604	quintrione	
+TWPEST_01605	quizalofop	
+TWPEST_01606	quizalofop-P	
+TWPEST_01607	quyingding	
+TWPEST_01608	rabenzazole	
+TWPEST_01609	rafoxanide	
+TWPEST_01610	rebemide	
+TWPEST_01611	renofluthrin	
+TWPEST_01612	renriduron	
+TWPEST_01613	rescalure	
+TWPEST_01614	resmethrin	
+TWPEST_01615	rhodethanil	
+TWPEST_01616	rhodojaponin-III	
+TWPEST_01617	rimisoxafen	
+TWPEST_01618	rodenticidal	
+TWPEST_01619	rodenticide	
+TWPEST_01620	ryania	
+TWPEST_01621	ryanodine	
+TWPEST_01622	salicylanilide	
+TWPEST_01623	salifluofen	
+TWPEST_01624	sanguinarine	
+TWPEST_01625	santonin	
+TWPEST_01626	sarolaner	
+TWPEST_01627	schradan	
+TWPEST_01628	scilliroside	
+TWPEST_01629	seboctylamine	
+TWPEST_01630	sebuthylazine	
+TWPEST_01631	secbumeton	
+TWPEST_01632	sedaxane	
+TWPEST_01633	selamectin	
+TWPEST_01634	sethoxydim	
+TWPEST_01635	shuangjiaancaolin	
+TWPEST_01636	siduron	
+TWPEST_01637	sifumijvzhi	
+TWPEST_01638	siglure	
+TWPEST_01639	silatrane	
+TWPEST_01640	silthiofam	silthiopham;silthiophan
+TWPEST_01641	simazine	
+TWPEST_01642	simeconazole	
+TWPEST_01643	simeton	
+TWPEST_01644	simetryn	
+TWPEST_01645	sodium cyanide	
+TWPEST_01646	sodium fluoroacetate	
+TWPEST_01647	sodium hexafluorosilicate	
+TWPEST_01648	sodium naphthenate	
+TWPEST_01649	sodium polysulfide	
+TWPEST_01650	sodium tetrathiocarbonate	
+TWPEST_01651	sodium thiocyanate	
+TWPEST_01652	sophamide	
+TWPEST_01653	spidoxamat	
+TWPEST_01654	spinetoram	
+TWPEST_01655	spinosad	
+TWPEST_01656	spirobudifen	
+TWPEST_01657	spirodiclofen	
+TWPEST_01658	spiromesifen	
+TWPEST_01659	spiropidion	
+TWPEST_01660	spirotetramat	
+TWPEST_01661	spiroxamine	
+TWPEST_01662	strychnine	
+TWPEST_01663	sulcatol	
+TWPEST_01664	sulcofuron	
+TWPEST_01665	sulfathiadiazuron	sulfathiazuron;suthiazuron
+TWPEST_01666	sulfentrazone	
+TWPEST_01667	sulfiflumin	
+TWPEST_01668	sulfindoflufen	
+TWPEST_01669	sulfluramid	
+TWPEST_01670	sulfometuron	
+TWPEST_01671	sulfosate	
+TWPEST_01672	sulfosulfuron	
+TWPEST_01673	sulfotep	
+TWPEST_01674	sulfoxaflor	
+TWPEST_01675	sulfoxamyl	
+TWPEST_01676	sulfoxime	
+TWPEST_01677	sulfuryl fluoride	
+TWPEST_01678	sulglycapin	
+TWPEST_01679	sulprofos	
+TWPEST_01680	sultropen	
+TWPEST_01681	supermethrin	
+TWPEST_01682	tau-fluvalinate	
+TWPEST_01683	tavron	
+TWPEST_01684	tazimcarb	
+TWPEST_01685	tebufenozide	
+TWPEST_01686	tebufenpyrad	
+TWPEST_01687	tebufloquin	
+TWPEST_01688	tebuthiuron	
+TWPEST_01689	tecloftalam	
+TWPEST_01690	tecoram	
+TWPEST_01691	tedion	
+TWPEST_01692	teflubenzuron	
+TWPEST_01693	tefluthrin	
+TWPEST_01694	tefuryltrione	
+TWPEST_01695	tembotrione	
+TWPEST_01696	temefos	
+TWPEST_01697	tepa	
+TWPEST_01698	tepraloxydim	
+TWPEST_01699	terallethrin	
+TWPEST_01700	terbacil	
+TWPEST_01701	terbucarb	
+TWPEST_01702	terbuchlor	
+TWPEST_01703	terbufos	
+TWPEST_01704	terbumeton	
+TWPEST_01705	terbuthylazine	
+TWPEST_01706	terbutryn	
+TWPEST_01707	tetcyclacis	
+TWPEST_01708	tetflupyrolimet	
+TWPEST_01709	tetrachlorantraniliprole	
+TWPEST_01710	tetrachloroethane	
+TWPEST_01711	tetraconazole	
+TWPEST_01712	tetrafluron	
+TWPEST_01713	tetranactin	
+TWPEST_01714	tetraniliprole	
+TWPEST_01715	tetrapion	
+TWPEST_01716	thallium sulfate	
+TWPEST_01717	thenylchlor	
+TWPEST_01718	theta-cypermethrin	
+TWPEST_01719	thiacloprid	
+TWPEST_01720	thiadifluor	
+TWPEST_01721	thiamethoxam	
+TWPEST_01722	thiameturon	
+TWPEST_01723	thiapronil	
+TWPEST_01724	thiazafluron	
+TWPEST_01725	thiazopyr	
+TWPEST_01726	thicrofos	
+TWPEST_01727	thicyofen	
+TWPEST_01728	thidiazimin	
+TWPEST_01729	thidiazuron	
+TWPEST_01730	thiencarbazone	
+TWPEST_01731	thifluzamide	
+TWPEST_01732	thiocarboxime	
+TWPEST_01733	thiochlorfenphim	
+TWPEST_01734	thiocyanatodinitrobenzenes	
+TWPEST_01735	thiocyclam	
+TWPEST_01736	thiodiazole-copper	
+TWPEST_01737	thiofanocarb	
+TWPEST_01738	thiofluoximate	
+TWPEST_01739	thiohempa	
+TWPEST_01740	thiomersal	
+TWPEST_01741	thionazin	
+TWPEST_01742	thiophanate	
+TWPEST_01743	thiophanate-methyl	
+TWPEST_01744	thioquinox	
+TWPEST_01745	thiosemicarbazide	
+TWPEST_01746	thiosultap	
+TWPEST_01747	thiram	TMTD;thiuram
+TWPEST_01748	thuringiensin	
+TWPEST_01749	tiadinil	
+TWPEST_01750	tiafenacil	
+TWPEST_01751	tiaojiean	
+TWPEST_01752	tiapyrachlor	
+TWPEST_01753	tigolaner	
+TWPEST_01754	tiocarbazil	
+TWPEST_01755	tioclorim	
+TWPEST_01756	tiorantraniliprole	
+TWPEST_01757	tioxazafen	
+TWPEST_01758	tioxymid	
+TWPEST_01759	tirpate	
+TWPEST_01760	tolclofos-methyl	
+TWPEST_01761	tolfenpyrad	
+TWPEST_01762	tolnifanide	
+TWPEST_01763	tolprocarb	
+TWPEST_01764	tolpyralate	
+TWPEST_01765	tolyfluanid	
+TWPEST_01766	tolylmercury acetate	
+TWPEST_01767	tomovircona	
+TWPEST_01768	toxapyzone	
+TWPEST_01769	tralkoxydim	
+TWPEST_01770	tralocythrin	
+TWPEST_01771	tralomethrin	
+TWPEST_01772	tralopyril	
+TWPEST_01773	transfluthrin	
+TWPEST_01774	transpermethrin	
+TWPEST_01775	tretamine	
+TWPEST_01776	tri-allate	
+TWPEST_01777	triadimefon	
+TWPEST_01778	triadimenol	
+TWPEST_01779	triafamone	
+TWPEST_01780	triamiphos	
+TWPEST_01781	triapenthenol	
+TWPEST_01782	triarathene	
+TWPEST_01783	triarimol	
+TWPEST_01784	triasulfuron	
+TWPEST_01785	triazamate	
+TWPEST_01786	triaziflam	
+TWPEST_01787	triazofenamide	
+TWPEST_01788	triazophos	
+TWPEST_01789	triazoxide	
+TWPEST_01790	tricamba	
+TWPEST_01791	trichlamide	
+TWPEST_01792	trichlophenidine	
+TWPEST_01793	trichlopyr	
+TWPEST_01794	trichlormetaphos-3	
+TWPEST_01795	trichloronat	
+TWPEST_01796	trichlorotrinitrobenzenes	
+TWPEST_01797	tricyclazole	
+TWPEST_01798	tridemorph	
+TWPEST_01799	tridiphane	
+TWPEST_01800	trietazine	
+TWPEST_01801	trifenmorph	
+TWPEST_01802	trifenofos	
+TWPEST_01803	trifloxystrobin	
+TWPEST_01804	trifloxysulfuron	
+TWPEST_01805	trifludimoxazin	
+TWPEST_01806	trifluenfuronate	
+TWPEST_01807	triflumezopyrim	
+TWPEST_01808	triflumizole	
+TWPEST_01809	triflumuron	
+TWPEST_01810	triflupyroxazin	
+TWPEST_01811	trifluralin	
+TWPEST_01812	triflusulfuron	
+TWPEST_01813	trifop	
+TWPEST_01814	trifopsime	
+TWPEST_01815	triforine	
+TWPEST_01816	trimedlure	
+TWPEST_01817	trimefluor	
+TWPEST_01818	trimethacarb	
+TWPEST_01819	trimeturon	
+TWPEST_01820	trimorfamid	
+TWPEST_01821	trioxyflanilide	
+TWPEST_01822	triprene	
+TWPEST_01823	tripropindan	
+TWPEST_01824	tripyrasulfone	
+TWPEST_01825	tritac	
+TWPEST_01826	trithialan	
+TWPEST_01827	triticonazole	
+TWPEST_01828	tritosulfuron	
+TWPEST_01829	trunc-call	
+TWPEST_01830	tyclopyrazoflor	
+TWPEST_01831	umifoxolaner	
+TWPEST_01832	uniconazole	
+TWPEST_01833	uniconazole-P	
+TWPEST_01834	urbacide	
+TWPEST_01835	uredepa	
+TWPEST_01836	vadescana	
+TWPEST_01837	valifenalate	
+TWPEST_01838	valone	
+TWPEST_01839	vamidothion	
+TWPEST_01840	vaniliprole	
+TWPEST_01841	veratridine	
+TWPEST_01842	verbutin	
+TWPEST_01843	vernolate	
+TWPEST_01844	vinclozolin	
+TWPEST_01845	vinylfluthrin	
+TWPEST_01846	virucidal	
+TWPEST_01847	virucide	
+TWPEST_01848	xiaochongliulin	
+TWPEST_01849	xylachlor	
+TWPEST_01850	xylenols	
+TWPEST_01851	yishijing	
+TWPEST_01852	zarilamid	
+TWPEST_01853	zeta-cypermethrin	
+TWPEST_01854	zinc naphthenate	
+TWPEST_01855	zinc phosphide	
+TWPEST_01856	zinc thiazole	
+TWPEST_01857	zinc trichlorophenate	
+TWPEST_01858	zineb	
+TWPEST_01859	ziram	
+TWPEST_01860	zolaprofos	
+TWPEST_01861	zoxamide	
+TWPEST_01862	zuomihuanglong	
