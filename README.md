@@ -1,12 +1,20 @@
 # Pesticide Text-Mining Pipeline
 
-This repository contains the code, input data, pesticide reference dictionary, and supporting evaluation data for the pesticide-related text-mining pipeline presented in the accompanying paper.
+This repository contains the code, input data, derived relation tables, pesticide reference dictionary, and supporting evaluation data for the pesticide-related text-mining pipeline presented in the accompanying paper.
 
 ## Repository contents
 
-### `src/Extraction_pipeline.py`
+### `src/extraction_pipeline.py`
 
 Main processing pipeline used to extract and process pesticide-related entities and relations from scientific literature.
+
+### `src/reproduce_postprocessing.py`
+
+Post-processing over the validated relation tables. It removes self-relations and directional duplicates, applies the retention criteria used to build the graph-ready relation set, confirms the final edge count, and reports the chemical-identifier coverage. Reads the tables in `data/` and requires only `pandas`.
+
+### `src/pubtator_compare.py`
+
+Compares the relation output of this workflow against PubTator 3.0's own annotations for the same abstracts. Requires `pandas` and `requests` (and, optionally, `scipy`), and needs internet access to the PubTator API.
 
 ### `data/pubmed_papers.csv`
 
@@ -19,6 +27,19 @@ The dataset contains:
 * `pmid` – PubMed identifier
 * `title` – article title
 * `abstract` – article abstract
+
+### Derived relation tables (`data/`)
+
+Relation tables produced by the pipeline, provided so that the post-processing and comparison scripts can be run without re-executing AIONER and BioREx.
+
+* `relations_validated_full.csv` – row-level relation output after `None`-label removal and pesticide-dictionary and PubChem validation. One row per extracted relation, with both entities and their types, the predicted relation label, the prediction score, sentence-proximity information, validation flags, and the assigned dictionary and PubChem identifiers. The `title` and `abstract` columns are omitted from this copy to reduce file size and can be recovered from the `pmid`.
+* `relations_validated_collapsed.csv` – the same relations after collapsing duplicate rows that share the same entity pair and relation label.
+* `relations_graph_ready_strict.csv` – the relation set after retention filtering, where each row is one candidate graph edge.
+* `relations_graph_ready_identifier_merged.csv` – the final graph edge set, after merging endpoints that resolve to the same chemical identifier. This is the file loaded by the dashboard.
+
+### PubChem caches (`data/`)
+
+* `pubchem_cache.json`, `pubchem_graph_ready_cache.json` – cached PubChem lookups used during chemical validation and identifier merging, so these steps can be reproduced without new PubChem queries.
 
 ### `resources/pesticide_dictionary.tsv`
 
@@ -34,6 +55,8 @@ Multiple synonyms are separated by semicolons.
 ### `evaluation/Qualitative_study.xlsx`
 
 Data associated with the qualitative evaluation reported in the accompanying paper.
+
+Some responses take the literal value `None`. When reading the file with pandas, pass `keep_default_na=False` so that these values are preserved rather than treated as missing.
 
 ## Pipeline
 
@@ -156,6 +179,8 @@ pandas
 ```
 
 AIONER and BioREx should use the dependencies specified by their respective repositories.
+
+The `reproduce_postprocessing.py` script requires `pandas`. The `pubtator_compare.py` script requires `pandas` and `requests`, and optionally `scipy`.
 
 ## Running the pipeline
 
@@ -336,6 +361,24 @@ SAVE_DECODED_ALL=True
 
 the complete decoded BioREx prediction table is also saved in compressed form.
 
+## Post-processing and comparison scripts
+
+Once the relation tables in `data/` are available (either produced by the extraction pipeline or taken from this repository), the two additional scripts can be run without AIONER or BioREx installed.
+
+Post-processing (runs offline):
+
+```bash
+python src/reproduce_postprocessing.py
+```
+
+Comparison against PubTator 3.0 (requires internet access):
+
+```bash
+python src/pubtator_compare.py --relations data/relations_validated_full.csv
+```
+
+The comparison writes its outputs to a `pubtator_comparison/` directory. Both scripts also print their results to the console.
+
 ## Reproducing the workflow
 
 To reproduce the extraction workflow:
@@ -351,4 +394,4 @@ To reproduce the extraction workflow:
 9. Run `src/Extraction_pipeline.py`.
 10. Retrieve the resulting relation tables from the configured output directory.
 
-The repository provides the study input literature, pesticide reference dictionary, extraction and post-processing code, and evaluation data needed to reproduce the workflow described in the accompanying paper.
+The repository provides the study input literature, derived relation tables, pesticide reference dictionary, extraction and post-processing code, and evaluation data needed to reproduce the workflow described in the accompanying paper.
